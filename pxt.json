@@ -9,7 +9,8 @@
     "files": [
         "README.md",
         "main.py",
-        "main.ts"
+        "main.ts",
+        "ptConnect.ts"
     ],
     "testFiles": [
         "test.ts"
